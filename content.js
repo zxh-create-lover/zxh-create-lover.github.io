@@ -2,7 +2,7 @@
 const portfolio = {
   name: "张新浩",
   shortName: "ZXH",
-  initials: "CXN",
+  initials: "ZXH",
   title: "Python 开发与数据采集",
   summary: "用代码把开放数据变成可理解的信息。我专注网页采集、数据清洗与自动化流程。",
   status: "持续充电中",
